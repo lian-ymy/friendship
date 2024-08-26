@@ -1,0 +1,11 @@
+knife4j:
+  enable: true                 #此项必配置，否则knife4j运行有问题
+  openapi:
+    title: 潋湄的伙伴匹配系统
+    description: 我欲乘风归去，又恐琼楼玉宇，高处不胜寒
+    email: 123@qq.com
+    concat: 潋湄
+    url: https://github.com/lian-ymy
+    license: Apache 2.0
+    license-url: http://www.apache.org/licenses/LICENSE-2.0
+    terms-of-service-url: https://www.bilibili.com/video/BV1tK411y7Uf/
